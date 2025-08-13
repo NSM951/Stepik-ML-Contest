@@ -32,7 +32,8 @@
 
 *train.ipynb* - чистовой notebook, в котором формировался датасет для расчета вероятности того, что пользователь окончит курс. <br>
 
-*events_train.csv* и *submissions_train.csv* - данные, которые использовались для формирования обучающего датасета.<br>
+[*events_train.csv*](https://stepik.org/media/attachments/course/4852/event_data_train.zip) и *submissions_train.csv* - данные, которые использовались для формирования обучающего датасета.<br>
+Из-за того что файл [*events_train.csv*](https://stepik.org/media/attachments/course/4852/event_data_train.zip) весит больше 100 Мб, то прикрепляю [*ссылку*](https://stepik.org/media/attachments/course/4852/event_data_train.zip), чтобы скачать его со степика.<br>
 
 *events_test.csv* и *submissions_test.csv* - данные, которые использовались для формирования тестируемого датасета.<br>
 
